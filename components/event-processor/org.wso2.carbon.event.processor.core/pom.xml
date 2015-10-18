@@ -143,8 +143,7 @@
                             !javax.xml.namespace,
                             javax.xml.namespace; version=0.0.0,
                             org.wso2.siddhi.*,
-                            org.wso2.carbon.event.processor.common.*,
-                            *;resolution:=optional
+                            org.wso2.carbon.event.processor.common.*
                         </Import-Package>
                         <DynamicImport-Package>*</DynamicImport-Package>
                         <Axis2Deployer>EventProcessorDeployer</Axis2Deployer>
