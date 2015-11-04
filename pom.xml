@@ -761,7 +761,6 @@
         <carbon.kernel.version>4.4.2</carbon.kernel.version>
 
         <carbon.commons.version>4.4.8</carbon.commons.version>
-        <carbon.analytics.common.version>5.0.5</carbon.analytics.common.version>
         <carbon.analytics.common.range>[5.0.5,6.0.0)</carbon.analytics.common.range>
         <carbon.p2.plugin.version>1.5.4</carbon.p2.plugin.version>
 
